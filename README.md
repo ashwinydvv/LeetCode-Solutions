@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0409-longest-palindrome](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [3668-restore-finishing-order](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Pigeonhole Principle
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
