@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
