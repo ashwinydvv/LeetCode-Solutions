@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
