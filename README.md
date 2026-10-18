@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
