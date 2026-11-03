@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
